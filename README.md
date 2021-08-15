@@ -17,7 +17,7 @@
 
 # unofficial-community-projects
 
-1) [Genie+Vue3+Plotly+Babylon playground](https://github.com/AlbaIntelligence/Genie_Vue3_Plotly_Babylon_playground__Genie_side) by AlbaIntelligence@github
+1) A playground joining a [Genie backend](https://github.com/AlbaIntelligence/Genie_Quasar_playground-Genie_backend.jl) and a [Quasar / Vue 3 frontend](https://github.com/AlbaIntelligence/Genie_Quasar_playground-Quasar_frontend) by AlbaIntelligence@github. This is code documented in detail as learning progresses. 
 
 2) [MVC app in Genie deploying it to a container cloud and virtual machine](https://github.com/jaantollander/GenieWebApp.jl) by jaantollander@github
 
